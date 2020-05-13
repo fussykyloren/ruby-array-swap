@@ -1,5 +1,5 @@
 # Ruby - Function to Swap Array Elements
-## Table of Contents
+# Table of Contents
 - [Information](https://github.com/fussykyloren/ruby-array-swap#information)
 - [Status](https://github.com/fussykyloren/ruby-array-swap#status)
 - [Instructions](https://github.com/fussykyloren/ruby-array-swap#instructions)
