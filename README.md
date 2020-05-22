@@ -26,3 +26,11 @@ After the repository is cloned, you will need to change the directory to where t
 ```
 cd [LOCATION_OF_CLONED_REPOSITORY]
 ```
+Now you can move the ruby file to where you will need to use it! This can be done using this command:
+```
+mv [LOCATION_OF_CLONED_REPOSITORY]/swap.rb [LOCATION_TO_MOVE_FILE]
+```
+Or if you'd prefer, you can copy the file using this command:
+```
+cp [LOCATION_OF_CLONED_REPOSITORY]/swap.rb [LOCATION_TO_MOVE_FILE]
+```
