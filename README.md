@@ -12,6 +12,17 @@ ruby -v
 ## Status
 At this time, the project is __*finished*__.
 ## Instructions
-1. If you do not have ruby installed, follow these [instructions](https://www.ruby-lang.org/en/documentation/installation/).
-2. Clone this repository using the following link: https://github.com/fussykyloren/ruby-array-swap.git
-3. Use the function as you wish! If you have any suggestions, don't hesitate to raise an issue!
+To run these program, Ruby v2.6.3p62 (or a compatible version) will need to be installed. To check the version of ruby you are using, run this command in terminal:
+```
+ruby -v
+```
+If you do not have ruby installed, follow these [instructions](https://www.ruby-lang.org/en/documentation/installation/).
+After ruby is installed, you should clone this repository to a place easily accessible to you using this command in terminal:
+```
+git clone https://github.com/fussykyloren/ruby-array-swap.git
+```
+Your github username and password should be requested. If not, don't worry about it.
+After the repository is cloned, you will need to change the directory to where the game example is saved. To to use the fibonacci programs, run this command next:
+```
+cd [LOCATION_OF_CLONED_REPOSITORY]
+```
